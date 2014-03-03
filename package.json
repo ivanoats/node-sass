@@ -1,0 +1,22 @@
+{
+  "name": "node-sass",
+  "version": "0.0.0",
+  "private": true,
+  "description": "node-sass test of dale's blog post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ivan Storck and Dale Sande",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.8",
+    "express3-handlebars": "~0.5.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-sass": "^0.11.0",
+    "grunt-contrib-watch": "^0.5.3"
+  }
+}
