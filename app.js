@@ -11,7 +11,7 @@ app.engine('handlebars', exphbs(
   {
     defaultLayout: 'main',
     // I had to add this in addtion to the express3-handlebars README
-    extname: 'hbs'
+    //extname: 'hbs'
   }
 ));
 app.set('view engine', 'handlebars');
